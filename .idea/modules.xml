@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../images/.idea/images.iml" filepath="$PROJECT_DIR$/../images/.idea/images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-adam-eva/.idea/js-adam-eva.iml" filepath="$PROJECT_DIR$/../js-adam-eva/.idea/js-adam-eva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-caro-github/.idea/js-caro-github.iml" filepath="$PROJECT_DIR$/../js-caro-github/.idea/js-caro-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/js-dichuyendoituong.iml" filepath="$PROJECT_DIR$/.idea/js-dichuyendoituong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-dichuyendoituong-github/.idea/js-dichuyendoituong-github.iml" filepath="$PROJECT_DIR$/../js-dichuyendoituong-github/.idea/js-dichuyendoituong-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-lopmotadienthoai/.idea/js-lopmotadienthoai.iml" filepath="$PROJECT_DIR$/../js-lopmotadienthoai/.idea/js-lopmotadienthoai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-motadienthoai-github/.idea/js-motadienthoai-github.iml" filepath="$PROJECT_DIR$/../js-motadienthoai-github/.idea/js-motadienthoai-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js-switch-lamp/.idea/js-switch-lamp.iml" filepath="$PROJECT_DIR$/../js-switch-lamp/.idea/js-switch-lamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../switch-lamp-github/.idea/switch-lamp-github.iml" filepath="$PROJECT_DIR$/../switch-lamp-github/.idea/switch-lamp-github.iml" />
+    </modules>
+  </component>
+</project>
